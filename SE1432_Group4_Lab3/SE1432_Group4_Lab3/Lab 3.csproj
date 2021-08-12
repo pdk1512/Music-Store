@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E8DBC102-54BB-46F0-AD19-EAF97798401E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Lab_3</RootNamespace>
+    <AssemblyName>Lab 3</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAL\ArtistDAO.cs" />
+    <Compile Include="DAL\CartDAO.cs" />
+    <Compile Include="DAL\GenreDAO.cs" />
+    <Compile Include="DAL\ShoppingCartDAO.cs" />
+    <Compile Include="DAL\UserDAO.cs" />
+    <Compile Include="DTL\Album.cs" />
+    <Compile Include="DTL\Artist.cs" />
+    <Compile Include="DTL\Cart.cs" />
+    <Compile Include="DTL\Genre.cs" />
+    <Compile Include="DTL\Order.cs" />
+    <Compile Include="DTL\OrderDerail.cs" />
+    <Compile Include="DTL\User.cs" />
+    <Compile Include="GUI\AboutGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AboutGUI.Designer.cs">
+      <DependentUpon>AboutGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AlbumAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AlbumAdd.designer.cs">
+      <DependentUpon>AlbumAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\AlbumDetailGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AlbumDetailGUI.Designer.cs">
+      <DependentUpon>AlbumDetailGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\AlbumDAO.cs" />
+    <Compile Include="DAL\DAO.cs" />
+    <Compile Include="DAL\OrderDAO.cs" />
+    <Compile Include="DAL\OrderDetailDAO.cs" />
+    <Compile Include="GUI\CartGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\CartGUI.Designer.cs">
+      <DependentUpon>CartGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FormAlbum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FormAlbum.designer.cs">
+      <DependentUpon>FormAlbum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\HomeGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\HomeGUI.Designer.cs">
+      <DependentUpon>HomeGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\LoginGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\LoginGUI.Designer.cs">
+      <DependentUpon>LoginGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ReportGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ReportGUI.designer.cs">
+      <DependentUpon>ReportGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\StoreGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\StoreGUI.Designer.cs">
+      <DependentUpon>StoreGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\CheckoutGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\CheckoutGUI.Designer.cs">
+      <DependentUpon>CheckoutGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Variable.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\AboutGUI.resx">
+      <DependentUpon>AboutGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AlbumAdd.resx">
+      <DependentUpon>AlbumAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\AlbumDetailGUI.resx">
+      <DependentUpon>AlbumDetailGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\CartGUI.resx">
+      <DependentUpon>CartGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FormAlbum.resx">
+      <DependentUpon>FormAlbum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\HomeGUI.resx">
+      <DependentUpon>HomeGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\LoginGUI.resx">
+      <DependentUpon>LoginGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ReportGUI.resx">
+      <DependentUpon>ReportGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\StoreGUI.resx">
+      <DependentUpon>StoreGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\CheckoutGUI.resx">
+      <DependentUpon>CheckoutGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="GUI\App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2021-06-07 003539.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2021-06-07 003826.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\e7b4b670-4436-49de-b3f2-1c5505f93baa.gif" />
+    <Content Include="Images\home-showcase.png" />
+    <Content Include="Images\logo.png" />
+    <Content Include="Images\placeholder.gif" />
+    <None Include="Resources\user_man_user_interface_app_person-512.png" />
+    <None Include="Resources\vrerg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

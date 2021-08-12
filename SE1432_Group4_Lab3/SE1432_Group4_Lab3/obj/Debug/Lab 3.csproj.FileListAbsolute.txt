@@ -1,0 +1,95 @@
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab 3.csprojAssemblyReference.cache
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.HomeGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.CheckoutGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.AboutGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.StoreGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.AlbumDetailGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.CartGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.LoginGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.AlbumAdd.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.FormAlbum.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.ReportGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.AssemblyReference.cache
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.AboutGUI.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.AlbumAdd.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.AlbumDetailGUI.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.CartGUI.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.FormAlbum.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.HomeGUI.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.LoginGUI.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.ReportGUI.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.StoreGUI.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.CheckoutGUI.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+C:\Users\DuyAK\Desktop\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab 3.csprojAssemblyReference.cache
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.AboutGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.AlbumAdd.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.AlbumDetailGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.CartGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.FormAlbum.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.HomeGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.LoginGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.GUI.ReportGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.StoreGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.CheckoutGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\bin\Debug\Lab 3.exe.config
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\bin\Debug\Lab 3.exe
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\bin\Debug\Lab 3.pdb
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab 3.csprojAssemblyReference.cache
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.AboutGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.AlbumAdd.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.AlbumDetailGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.CartGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.FormAlbum.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.HomeGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.LoginGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.ReportGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.StoreGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.CheckoutGUI.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab 3.exe
+C:\Users\khanh\OneDrive\Máy tính\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab 3.pdb
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\bin\Debug\Lab 3.exe.config
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\bin\Debug\Lab 3.exe
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\bin\Debug\Lab 3.pdb
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab 3.csprojAssemblyReference.cache
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.AboutGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.AlbumAdd.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.AlbumDetailGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.CartGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.FormAlbum.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.HomeGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.LoginGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.GUI.ReportGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.StoreGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.CheckoutGUI.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab 3.exe
+D:\STUDY\SUMMER 2021\PRN292\SE1432_Group4_Lab3\SE1432_Group4_Lab3\SE1432_Group4_Lab3\obj\Debug\Lab 3.pdb
